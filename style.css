@@ -2,3 +2,6 @@ body{
     height: 100%;
     background:linear-gradient (45deg, rgba(255, 0, 255, 0.501), rgba());
 }
+h1{
+    color: grey;
+}
